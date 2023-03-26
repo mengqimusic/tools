@@ -11,6 +11,6 @@ autoharp.pd is an autoharp that outputs simple tones and MIDI (and it uses [Lind
 ![“autoharp”中](https://user-images.githubusercontent.com/4593629/227766105-7e059692-ba88-4ebf-a313-89169993c8a9.png)
 
 
-tcrCalc.py is a Serial Resistor TCR Calculator to aid analog circuit design. It calculate the resistor to use to get the required TCR and resistance.
+tcrCalc.py is a Serial Resistor TCR Calculator to aid analog circuit design. It calculate the resistor to use to get the required TCR.
 
 ![截屏2023-03-26 17 14 57](https://user-images.githubusercontent.com/4593629/227766625-11c6a35a-91ff-4c70-b7d1-8731f0652d5b.png)
